@@ -1,6 +1,6 @@
 {
   "name": "hypernos-technology/social-post-api",
-  "license": "SEE LICENSE IN LICENSE.txt",
+  "license": "proprietary",
   "type": "library",
   "require": {
     "php": "^8.2"
